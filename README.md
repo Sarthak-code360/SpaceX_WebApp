@@ -38,8 +38,9 @@ SpaceX app is deployed on **Netlify** [Spacex-Launch-Programs](https://sarthak-s
 
 ## Mobile View
 
- ![WhatsApp Image 2023-04-26 at 8 08 54 PM](https://user-images.githubusercontent.com/74900672/234611156-c1d603a3-6deb-4a4f-81f1-0ef1a202d07b.jpeg)
+<img width="394" alt="image" src="https://user-images.githubusercontent.com/74900672/234612988-f538a206-63f2-425c-bd6c-d13b1ed889f5.png">
 (700 px)
+
 ## Tablet View
 
 <img width="263" alt="image" src="https://user-images.githubusercontent.com/74900672/234611510-1c0a2f72-25f5-40f9-a4cd-d92f3f8c56a7.png">
