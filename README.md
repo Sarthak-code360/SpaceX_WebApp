@@ -1,6 +1,22 @@
-## Spacex
+## SpaceX
 
 A front-end application which would help users list and browse all launches by SpaceX program.
+
+## Mobile View
+
+<img width="394" alt="image" src="https://user-images.githubusercontent.com/74900672/234612988-f538a206-63f2-425c-bd6c-d13b1ed889f5.png">
+(700 px)
+
+## Tablet View
+
+<img width="263" alt="image" src="https://user-images.githubusercontent.com/74900672/234611510-1c0a2f72-25f5-40f9-a4cd-d92f3f8c56a7.png">
+(700 and 1024 px)
+
+## Desktop View
+
+<img width="283" alt="image" src="https://user-images.githubusercontent.com/74900672/234612106-d2842b6b-e9eb-4cfe-b1e9-7386290035cd.png">
+(1024 and 1440 px)
+
 
 ## Installation
 
@@ -36,20 +52,6 @@ SpaceX app is deployed on **Netlify** [Spacex-Launch-Programs](https://sarthak-s
 
 <img width="948" alt="image" src="https://user-images.githubusercontent.com/74900672/234608466-4c212ca7-d992-46f1-9385-d947bcc5f864.png">
 
-## Mobile View
-
-<img width="394" alt="image" src="https://user-images.githubusercontent.com/74900672/234612988-f538a206-63f2-425c-bd6c-d13b1ed889f5.png">
-(700 px)
-
-## Tablet View
-
-<img width="263" alt="image" src="https://user-images.githubusercontent.com/74900672/234611510-1c0a2f72-25f5-40f9-a4cd-d92f3f8c56a7.png">
-(700 and 1024 px)
-
-## Desktop View
-
-<img width="283" alt="image" src="https://user-images.githubusercontent.com/74900672/234612106-d2842b6b-e9eb-4cfe-b1e9-7386290035cd.png">
-(1024 and 1440 px)
 
 
 # Developed By [Sarthak Mishra](https://github.com/Sarthak-code360)
