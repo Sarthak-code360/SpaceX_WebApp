@@ -37,17 +37,17 @@ SpaceX app is deployed on **Netlify** [Spacex-Launch-Programs](https://sarthak-s
 <img width="948" alt="image" src="https://user-images.githubusercontent.com/74900672/234608466-4c212ca7-d992-46f1-9385-d947bcc5f864.png">
 
 ## Mobile View
-(700 px)
+
  ![WhatsApp Image 2023-04-26 at 8 08 54 PM](https://user-images.githubusercontent.com/74900672/234611156-c1d603a3-6deb-4a4f-81f1-0ef1a202d07b.jpeg)
-
+(700 px)
 ## Tablet View
-(700 and 1024 px)
-<img width="263" alt="image" src="https://user-images.githubusercontent.com/74900672/234611510-1c0a2f72-25f5-40f9-a4cd-d92f3f8c56a7.png">
 
+<img width="263" alt="image" src="https://user-images.githubusercontent.com/74900672/234611510-1c0a2f72-25f5-40f9-a4cd-d92f3f8c56a7.png">
+(700 and 1024 px)
 
 ## Desktop View
-(1024 and 1440 px)
-<img width="283" alt="image" src="https://user-images.githubusercontent.com/74900672/234612106-d2842b6b-e9eb-4cfe-b1e9-7386290035cd.png">
 
+<img width="283" alt="image" src="https://user-images.githubusercontent.com/74900672/234612106-d2842b6b-e9eb-4cfe-b1e9-7386290035cd.png">
+(1024 and 1440 px)
 
 Developed By [Sarthak Mishra](https://github.com/Sarthak-code360)
